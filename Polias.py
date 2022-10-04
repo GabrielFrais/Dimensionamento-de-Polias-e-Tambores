@@ -1,7 +1,3 @@
-''' Gabriel de Oliveira Frais
-	Henrique dos Santos Flor
-	Wender James Ferreira Gomes'''
-
 import math
 import pandas as pd
 
